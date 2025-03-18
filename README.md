@@ -6,7 +6,7 @@ Accurately predicting house prices is crucial for buyers, sellers and real estat
 
 ## Objective 
 
-Build and evaluate ****multiple regression models (Linear Regression, Decision Trees and Random Forest)** that can estimate house prices based on **real-world housing market data**. The model should:
+Build and evaluate **multiple regression models (Linear Regression, Decision Trees and Random Forest)** that can estimate house prices based on **real-world housing market data**. The model should:
 
 - Accurately **estimate prices** for new listings
 - Identify the most **influential factors** affecting house prices
