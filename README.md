@@ -103,8 +103,8 @@ The dataset to be used is the [Kaggle Housing Prices Dataset](https://www.kaggle
 
 - **Feature importance:** Which features most impact house prices?
 - **Model selection:** Which regression model provides the most accurate predictions?
-- **Performance evaluation:** How well does the model generalize to unseen data?
-- **Hyperparameter tuning:** How can we optimize models for better performance?
+- **Performance evaluation:** How well does the model generalise to unseen data?
+- **Hyperparameter tuning:** How can we optimise models for better performance?
 
 ## Success Criteria
 
